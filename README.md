@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/tanvivarshney7/Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/tanvivarshney7/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/tanvivarshney7/Leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanvivarshney7/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/tanvivarshney7/Leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -38,4 +40,16 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tanvivarshney7/Leetcode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanvivarshney7/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanvivarshney7/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanvivarshney7/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
