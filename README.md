@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tanvivarshney7/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/tanvivarshney7/Leetcode/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanvivarshney7/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tanvivarshney7/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
