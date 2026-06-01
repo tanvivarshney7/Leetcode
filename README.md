@@ -32,6 +32,7 @@
 | [0125-valid-palindrome](https://github.com/tanvivarshney7/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tanvivarshney7/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanvivarshney7/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/tanvivarshney7/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 ## String Matching
 |  |
 | ------- |
