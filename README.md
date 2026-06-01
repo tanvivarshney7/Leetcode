@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanvivarshney7/Leetcode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/tanvivarshney7/Leetcode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tanvivarshney7/Leetcode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/tanvivarshney7/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
