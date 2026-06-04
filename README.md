@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/tanvivarshney7/Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/tanvivarshney7/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tanvivarshney7/Leetcode/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/tanvivarshney7/Leetcode/tree/master/0414-third-maximum-number) |
 | [3731-find-missing-elements](https://github.com/tanvivarshney7/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/tanvivarshney7/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
@@ -63,6 +64,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/tanvivarshney7/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tanvivarshney7/Leetcode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/tanvivarshney7/Leetcode/tree/master/0414-third-maximum-number) |
 | [3731-find-missing-elements](https://github.com/tanvivarshney7/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/tanvivarshney7/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting
