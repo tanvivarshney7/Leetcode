@@ -17,6 +17,7 @@
 | [0001-two-sum](https://github.com/tanvivarshney7/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tanvivarshney7/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tanvivarshney7/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/tanvivarshney7/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanvivarshney7/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3731-find-missing-elements](https://github.com/tanvivarshney7/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -40,6 +41,7 @@
 | [0125-valid-palindrome](https://github.com/tanvivarshney7/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tanvivarshney7/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tanvivarshney7/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/tanvivarshney7/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanvivarshney7/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/tanvivarshney7/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanvivarshney7/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanvivarshney7/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/tanvivarshney7/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanvivarshney7/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
