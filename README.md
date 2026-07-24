@@ -26,6 +26,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/tanvivarshney7/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/tanvivarshney7/Leetcode/tree/master/0069-sqrtx) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/tanvivarshney7/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanvivarshney7/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3908-valid-digit-number](https://github.com/tanvivarshney7/Leetcode/tree/master/3908-valid-digit-number) |
 ## Two Pointers
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tanvivarshney7/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/tanvivarshney7/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->
