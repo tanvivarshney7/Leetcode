@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/tanvivarshney7/Leetcode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/tanvivarshney7/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/tanvivarshney7/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanvivarshney7/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3731-find-missing-elements](https://github.com/tanvivarshney7/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/tanvivarshney7/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
@@ -25,6 +26,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/tanvivarshney7/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/tanvivarshney7/Leetcode/tree/master/0069-sqrtx) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tanvivarshney7/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3908-valid-digit-number](https://github.com/tanvivarshney7/Leetcode/tree/master/3908-valid-digit-number) |
 ## Two Pointers
 |  |
