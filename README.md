@@ -90,4 +90,8 @@
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/tanvivarshney7/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/tanvivarshney7/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
