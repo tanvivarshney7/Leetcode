@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanvivarshney7/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/tanvivarshney7/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tanvivarshney7/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tanvivarshney7/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/tanvivarshney7/Leetcode/tree/master/0383-ransom-note) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tanvivarshney7/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/tanvivarshney7/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/tanvivarshney7/Leetcode/tree/master/0069-sqrtx) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tanvivarshney7/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/tanvivarshney7/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -40,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tanvivarshney7/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanvivarshney7/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanvivarshney7/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tanvivarshney7/Leetcode/tree/master/0125-valid-palindrome) |
